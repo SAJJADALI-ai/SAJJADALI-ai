@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAJJADALI-ai
-- 👀 I’m interested in app develpment
+- 👀 I’m interested in app development
 - 🌱 I’m currently learning codeing
-- 💞️ I’m looking to collaborate on develper
+- 💞️ I’m looking to collaborate on developer
 -
 
 <!---
